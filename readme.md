@@ -14,7 +14,7 @@ This project focuses on fact-checking public health claims using three different
 To run this project, ensure you have Python installed along with the necessary libraries. You can install the required libraries using the following command:
 
 ```bash
-pip install seaborn numpy pandas scikit-learn datasets nltk plotly torch vaderSentiment transformers wordcloud bitsandbytes accelerate rouge_score bert_score evaluate
+pip install -r requirements.txt
 ```
 
 Additionally, install the Black library for code formatting:

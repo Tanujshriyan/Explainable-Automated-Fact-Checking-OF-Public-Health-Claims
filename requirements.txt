@@ -1,0 +1,16 @@
+seaborn
+numpy
+pandas
+scikit-learn 
+datasets 
+nltk 
+plotly 
+torch 
+vaderSentiment 
+transformers 
+wordcloud 
+bitsandbytes 
+accelerate 
+rouge_score 
+bert_score 
+evaluate
