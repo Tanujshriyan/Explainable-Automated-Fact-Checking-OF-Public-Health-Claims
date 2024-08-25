@@ -12,7 +12,7 @@ This project focuses on fact-checking public health claims using three different
 - [License](#license)
 - [Acknowledgement](#acknowledgment)
 
-### Dataset
+## Dataset
 
 The dataset used for this research can be found at the following GitHub repository: [Health-Fact-Checking Dataset](https://github.com/neemakot/Health-Fact-Checking).
 
