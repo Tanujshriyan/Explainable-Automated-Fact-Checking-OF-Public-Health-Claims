@@ -4,11 +4,17 @@
 This project focuses on fact-checking public health claims using three different models: Naive Bayes, BERT (Bidirectional Encoder Representations from Transformers), and Llama2. The notebook demonstrates data preprocessing, model training, and evaluation for each approach, aiming to explore their effectiveness in distinguishing between true and false health-related claims.
 
 ## Table of Contents
+- [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Workflow](#workflow)
 - [Models](#models)
 - [License](#license)
+- [Acknowledgement](#acknowledgment)
+
+### Dataset
+
+The dataset used for this research can be found at the following GitHub repository: [Health-Fact-Checking Dataset](https://github.com/neemakot/Health-Fact-Checking).
 
 ## Installation
 To run this project, ensure you have Python installed along with the necessary libraries. You can install the required libraries using the following command:
@@ -63,3 +69,9 @@ The workflow of this notebook is as follows:
 
 ## Llama2 Model Usage
 To use the Llama2 model, you must obtain permission from Hugging Face. Please visit the Hugging Face website and follow their guidelines for accessing the model. Ensure you comply with their terms of use and licensing agreements.
+
+## Acknowledgment
+
+This project was conducted as part of the MSc in Artificial Intelligence and Data Science program at the **University of Hull**. The research presented in this repository contributed to my dissertation titled *Explainable Fact-checking Model for Public Health Claims Using BERT and Llama 2 with Prompt Engineering*, submitted in August, 2024.
+
+For any inquiries regarding the project or research, please contact me at tanujshriyan@gmail.com.
