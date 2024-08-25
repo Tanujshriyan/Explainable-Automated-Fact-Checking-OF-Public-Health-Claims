@@ -27,8 +27,8 @@ pip install black
 ## Usage
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Tanujshriyan/Explainable-Automated-Fact-Checking-OF-Public-Health-Claims.git
+   cd Explainable-Automated-Fact-Checking-OF-Public-Health-Claims
    ```
 
 2. **Open the Jupyter Notebook**:
@@ -63,8 +63,3 @@ The workflow of this notebook is as follows:
 
 ## Llama2 Model Usage
 To use the Llama2 model, you must obtain permission from Hugging Face. Please visit the Hugging Face website and follow their guidelines for accessing the model. Ensure you comply with their terms of use and licensing agreements.
-
-### Instructions
-
-- Replace `<repository-url>` and `<repository-directory>` with the actual URL and directory name of your repository.
-- Adjust any sections as necessary to fit your project's specific details or requirements.
